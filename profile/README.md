@@ -5,7 +5,7 @@
   <img src="https://cdn.alexishenry.eu/shared/images/golfinder.svg" alt="logo" width="200" height="auto" />
   
   <p>
-    Make it easy for you ❤️
+    Make it easier for you ❤️
   </p>
 
 <a href="https://github.com/Golfinder/docs"><strong>Documentation »</strong></a>
